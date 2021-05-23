@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Tommaso Amadori and I live in Milan, Italy!
+My name is Gaetano D'Agostino and I live in Milan, Italy!
 
 - 🎓 I'm currently doing the master's course in computer science at the Universita\` degli studi di Milano
-- 📫 You can find more detailed info about me at my [personal website](https://tomgeek27.github.io/portfolio)
+- 📫 You can find more info about me on my [personal website](https://dagyu.netlify.app/)
 - 🎯 Love programming
 
 ### .. and stats
